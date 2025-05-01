@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash14909
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Compsci & Buisiness
+- 🌱 I’m currently learning basics of Github
+- 💞️ I’m looking to collaborate on Projects on Ai and Data Analysis
 - 📫 How to reach me ...
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:
