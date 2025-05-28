@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash14909
-- 👀 I’m interested in Comp-sci & business 
+- 👀 I’m interested in Comp-sci & business analytics & studies 
 - 🌱 I’m currently learning basics of Github
 - 💞️ I’m looking to collaborate on Projects on Ai and Data Analysis
 - 📫 How to reach me through Linkedin and Social Media.
