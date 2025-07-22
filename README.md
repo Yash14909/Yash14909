@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects on Ai and Data Analysis...
 - 📫 How to reach me, through Linkedin and Social Media...
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact:"Of all men's miseries,the bitterest is this:to know so much and have control over nothing".
+- ⚡ Fun fact:"Of all men's miseries,the bitterest is this:to know so much and have control over nothing"
 
 <!---
 Yash14909/Yash14909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
